@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-app10-mongodb-connection-using-mongoose",
+  "version": "1.0.0",
+  "description": "NodeJS application demo to connect MongoDB using mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-App10-MongoDB-connection-using-mongoose"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2"
+  }
+}
